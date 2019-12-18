@@ -1,4 +1,4 @@
-package com.eshop;
+package com.eshop.ui;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -19,6 +19,7 @@ import android.widget.TextView;
 
 import com.eshop.Admin.AdminMaintainProductActivity;
 import com.eshop.Prevalent.Prevalent;
+import com.eshop.R;
 import com.eshop.adapter.ProductViewHolder;
 import com.eshop.model.Products;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;

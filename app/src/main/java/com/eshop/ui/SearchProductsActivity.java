@@ -1,4 +1,4 @@
-package com.eshop;
+package com.eshop.ui;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.eshop.R;
 import com.eshop.adapter.ProductViewHolder;
 import com.eshop.model.Products;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;

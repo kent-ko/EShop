@@ -10,24 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Admin.AdminMaintainProductActivity"></activity>
-        <activity android:name=".SearchProductsActivity" />
+        <activity android:name=".ui.SearchProductsActivity" />
         <activity android:name=".Admin.AdminUserProductActivity" />
         <activity android:name=".Admin.AdminNewOrderActivity" />
-        <activity android:name=".ConfirmFinalOrder" />
-        <activity android:name=".CartActivity" />
-        <activity android:name=".ProductDetailActivity" />
-        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ui.ConfirmFinalOrder" />
+        <activity android:name=".ui.CartActivity" />
+        <activity android:name=".ui.ProductDetailActivity" />
+        <activity android:name=".ui.SettingsActivity" />
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat" /> <!-- optional (needed if default theme has no action bar) -->
         <activity android:name=".Admin.AdminCategoryActivity" />
         <activity android:name=".Admin.AdminActivity" />
         <activity
-            android:name=".Home"
+            android:name=".ui.Home"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".LoginRegister.RegisterActivity" />
         <activity android:name=".LoginRegister.LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

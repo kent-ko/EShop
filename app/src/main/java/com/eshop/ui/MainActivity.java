@@ -1,4 +1,4 @@
-package com.eshop;
+package com.eshop.ui;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.eshop.LoginRegister.LoginActivity;
 import com.eshop.LoginRegister.RegisterActivity;
 import com.eshop.Prevalent.Prevalent;
+import com.eshop.R;
 import com.eshop.model.Users;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

@@ -14,7 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.eshop.Admin.AdminCategoryActivity;
-import com.eshop.Home;
+import com.eshop.ui.Home;
 import com.eshop.Prevalent.Prevalent;
 import com.eshop.R;
 import com.eshop.model.Users;

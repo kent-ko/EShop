@@ -1,4 +1,4 @@
-package com.eshop;
+package com.eshop.ui;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -17,6 +17,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.eshop.Prevalent.Prevalent;
+import com.eshop.R;
 import com.eshop.adapter.CartViewHolder;
 import com.eshop.model.Cart;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;

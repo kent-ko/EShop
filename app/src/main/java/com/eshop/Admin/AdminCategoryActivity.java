@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.eshop.Home;
+import com.eshop.ui.Home;
 import com.eshop.LoginRegister.LoginActivity;
 import com.eshop.R;
 
